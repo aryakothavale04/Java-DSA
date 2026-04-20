@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Boilerplate {
+public class squarePattern {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // Your code goes here
